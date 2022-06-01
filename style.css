@@ -74,8 +74,12 @@ body {
 .sl-nav li ul li span {
   padding-left: 5px;
 }
-.sl-nav li ul li a span:hover, .sl-nav li ul li a span.active {
+.sl-nav li ul li span:hover, .sl-nav li ul li span.active {
   color: #146c78;
+}
+.sl-nav li ul li a {
+  color: #3c3c3c;
+  text-decoration: none;
 }
 .sl-flag {
   display: inline-block;
@@ -89,7 +93,7 @@ body {
   overflow: hidden;
 }
 
-.flag {
+.fix {
   background-size: cover;
   background-position: center center;
 }
