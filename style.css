@@ -58,7 +58,7 @@ body {
   border-radius:2px 0px 0px 0px;
   box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
 }
-.sl-nav li ul li a {
+.sl-nav li ul li {
   position: relative;
   text-align: left;
   background: transparent;
