@@ -58,7 +58,7 @@ body {
   border-radius:2px 0px 0px 0px;
   box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
 }
-.sl-nav li ul li {
+.sl-nav li ul li a {
   position: relative;
   text-align: left;
   background: transparent;
@@ -74,7 +74,7 @@ body {
 .sl-nav li ul li span {
   padding-left: 5px;
 }
-.sl-nav li ul li span:hover, .sl-nav li ul li span.active {
+.sl-nav li ul li a:hover span:hover, .sl-nav li ul li span.active {
   color: #146c78;
 }
 .sl-flag {
