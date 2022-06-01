@@ -1,11 +1,3 @@
-// ==UserLibrary==
-// @name         Flags-CSS
-// @namespace    http://tampermonkey.net/
-// @version      0.3
-// @description  A Javascript library that converts the Flag icons to base64 encoding of css.
-// @author       avan
-// @grant        none
-// ==UserLibrary==
 const imgLinkEl = document.createElement('link');
 imgLinkEl.setAttribute('rel', 'stylesheet');
 imgLinkEl.setAttribute('type', 'text/css');
