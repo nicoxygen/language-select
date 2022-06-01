@@ -88,3 +88,8 @@ body {
   top: 2px;
   overflow: hidden;
 }
+
+.flag-fr {
+  background-size: cover;
+  background-position: center center;
+}
